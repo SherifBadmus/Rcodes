@@ -1,6 +1,4 @@
-# I constructed this for a client #Msc Thesis #Artificial Neural Network
-#But I later had to use JMP Pro 14 because I had issues integrating tensorflow and keras into my R work space
-# I am still out on solutions and I think getting serious with the Copernicus institute program on using the jupyter notebook should help
+#Msc Thesis #Artificial Neural Network
 
 #########
 #THE USE OF ARTIFICIAL NEURAL NETWORKS AND REGRESSION ANALYSIS IN PREDICTING MEAN BLOOD PRESSURE
